@@ -1,0 +1,21 @@
+
+
+form {
+  width: 200px;
+  margin: 0 auto;
+}
+
+input {
+  border: none;
+  border-bottom: 1px solid white;
+  padding: 5px 10px ;
+  outline: none;
+  background-color: transparent;
+  color: white;
+  
+
+}
+
+button {
+  display: none;
+}
